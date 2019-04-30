@@ -1,0 +1,11 @@
+{
+    "user_name": "Cookie Master",
+    "user_email": "your@email",
+    
+    "actions_name": "Action",
+    "actions_description": "Description",
+    "actions_icon": "Select in https://feathericons.com/, like mic, cloud etc..",
+    "actions_color": [
+        "white", "yellow", "blue", "green", "orange", "red", "purple", "gray-dark"
+    ] 
+}
